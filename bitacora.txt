@@ -1,0 +1,3 @@
+26/8:Agregarle Contenido y ver como funciona bootstrap
+27/8:Agregarle diseño y Terminar el contenido Con bootstrap
+2/9:Terminar Pagina
